@@ -21,6 +21,11 @@
     NSLog(@"sdf");
     NSLog(@"test2");
     NSLog(@"test3");
+    NSLog(@"sdf");
+    NSLog(@"test2");
+    NSLog(@"test3");
+    NSLog(@"hahaha");
+    NSLog(@"hahaha");
 }
 
 - (void)didReceiveMemoryWarning {
